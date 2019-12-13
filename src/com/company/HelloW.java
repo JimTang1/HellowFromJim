@@ -4,6 +4,7 @@ public class HelloW {
 
     public void sayHello() {
         System.out.println("Hellow, my name is Jim!");
+        System.out.println("Hi Jim WAAAAAAAZZZZZZ up!?";
     }
 
     public static void main(String[] args) {
